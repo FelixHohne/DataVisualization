@@ -21,5 +21,6 @@ Credit: Corey Schafer, 2019 Stack Overflow annual developer survey
 
 What is the average age of a developer in 2019? Are we correct in assuming that programming is a young person's business? When we plot a histogram, we see that indeed there are far more young developers and that programmers in middle age and beyond are relatively rare. 
 
+![developer_salaries](https://user-images.githubusercontent.com/58995473/71764091-84e0cb80-2ee3-11ea-9b55-86009127d5f8.png)
 
 
