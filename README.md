@@ -8,7 +8,7 @@ see the respective jupyter notebooks.
 
 ___ 
 
-**Developer Salaries, Languages, and Age in 2019** 
+**Developer Salaries, Languages, and Age in 2019:** 
 
 What is the relationship between developer salaries, programming languages, and age in 2019? According to the 2019 Stack Overflow developer survey, salaries generally grew with age and Python programmers earned slightly more than the average developer. 
 
@@ -16,6 +16,10 @@ Credit: Corey Schafer, 2019 Stack Overflow annual developer survey
 
 ![developer_salaries](https://user-images.githubusercontent.com/58995473/71763714-519c3d80-2edf-11ea-9e1a-a0afadfe1fa9.png)
 
+
+**Average Developer Age: **
+
+What is the average age of a developer in 2019? Are we correct in assuming that programming is a young person's business? When we plot a histogram, we see that indeed there are far more young developers and that programmers in middle age and beyond are relatively rare. 
 
 
 
