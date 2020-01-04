@@ -6,13 +6,11 @@ A personal project over a winter break to learn python's pandas and matplotlib l
 See the document below for the most interesting visualizations. For the source code to generate these visuals, please 
 see the respective jupyter notebooks. 
 
-__Document index__: 
-+ traffic accidents: 
-+ Programming language popularity
-+ Popularity of programming languages over time 
-+ Development of camera technology 
-
 ___ 
+
+**Developer Salaries, Languages, and Age in 2019 
+
+What is the relationship between developer salaries, programming languages, and age in 2019? According to the 2019 Stack Overflow developer survey, salaries generally grew with age and Python programmers earned slightly more than the average developer. 
 
 
 
