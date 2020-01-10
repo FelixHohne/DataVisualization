@@ -36,11 +36,10 @@ Considering the high level of inequality of inequality in the United States, cou
 
 ![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
 
-**Dataset Compiled By:** 
+**Dataset Compiled By:** National Center for Health Statistics
 
-**Source**: 
+**Source**: https://www.kaggle.com/des137/us-births-2018
 
-![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
 ___
 
 **Developer Salaries, Languages, and Age in 2019:** 
