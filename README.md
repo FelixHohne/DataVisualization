@@ -45,11 +45,11 @@ Due to space limitations, I used shorthand for each level of education. Here is 
 + MA: Master’s degree
 + Ph.D.: Doctorate or Professional Degree
 
-![US_Births](https://user-images.githubusercontent.com/58995473/72191270-f8ae3700-3401-11ea-850f-18de83f7ade0.png)
-
 **Dataset Compiled By:** National Center for Health Statistics
 
 **Source**: https://www.kaggle.com/des137/us-births-2018
+
+![US_Births](https://user-images.githubusercontent.com/58995473/72191270-f8ae3700-3401-11ea-850f-18de83f7ade0.png)
 
 ___
 
