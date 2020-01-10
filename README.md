@@ -32,7 +32,7 @@ ___
 
 **Parental Education and and Birth Weight**
 
-Considering the high level of inequality of inequality in the United States, could there perhaps be a relationship between the level of parental education and the birth weight? This is not the case; as one perhaps would have expected, there is no obvious relationship between parental education and the birth weight of their children. 
+Considering the high level of inequality of inequality in the United States, could there now perhaps be a relationship between the level of parental education and the birth weight? This is not the case; as one perhaps would have expected, there is no obvious relationship between parental education and the birth weight of their children. 
 
 ![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
 
