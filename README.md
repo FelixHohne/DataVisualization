@@ -13,6 +13,7 @@ ___
 Which countries send the most money in terms of remittances? When we plot a stackplot, we see that the United States has for the entire period make up a large though increasingly declining percentage of the remittances sent home. Over time, other countries such as China and Saudi Arabia now make up a larger share of remittances sent. 
 
 **Credit:** World Bank. 
+
 **Source:** https://www.kaggle.com/theworldbank/worldwide-economic-remittances
 
 ![remittances](https://user-images.githubusercontent.com/58995473/72166388-668a3c80-33c9-11ea-96a8-62afcc85c862.png)
