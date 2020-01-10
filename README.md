@@ -28,7 +28,7 @@ During what type of weather are traffic accidents most common in the United Stat
 
 **Source:** https://www.kaggle.com/sobhanmoosavi/us-accidents
 
-![weather_conditions](https://user-images.githubusercontent.com/58995473/72166691-02b44380-33ca-11ea-8573-b6993a65a430.png)
+![weather_conditions](https://user-images.githubusercontent.com/58995473/72167510-87ec2800-33cb-11ea-81bb-52d64bf5f678.png)
 
 ___
 
