@@ -2,9 +2,7 @@
 
 ### Abstract 
 
-A personal project over a winter break to learn and use Python's pandas and matplotlib data visualization libraries. 
-For the source code to generate these visuals, please 
-see the respective jupyter notebooks. 
+A personal project over a winter break to learn and use Python's pandas and matplotlib data visualization libraries using various real-world datasets. For the source code to generate these visuals, please see the respective jupyter notebooks in their respective folders. 
 
 ___ 
 
