@@ -10,7 +10,7 @@ ___
 
 Which countries send the most money in terms of remittances? We see that the United States has for the entire period make up a large though increasingly declining percentage of the remittances sent home. Over time, other countries such as China and Saudi Arabia now make up a larger share of remittances sent. 
 
-**Credit:** _World Bank_ 
+**Dataset compiled by:** _World Bank_ 
 
 **Source:** https://www.kaggle.com/theworldbank/worldwide-economic-remittances
 
@@ -22,12 +22,25 @@ ___
 
 During what type of weather are traffic accidents most common in the United States? We might naively assume most traffic accidents occur during bad weather, but this is not the case; traffic accidents are actually most common during clear weather. 
 
-**Credit:** _Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019._
+**Dataset compiled by:** _Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019._
 
 **Source:** https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 ![weather_conditions](https://user-images.githubusercontent.com/58995473/72167510-87ec2800-33cb-11ea-81bb-52d64bf5f678.png)
 
+___
+
+**Parental Education and and Birth Weight**
+
+Considering the high level of inequality of inequality in the United States, could there perhaps be a relationship between the level of parental education and the birth weight? This is not the case; as one perhaps would have expected, there is no obvious relationship between parental education and the birth weight of their children. 
+
+![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
+
+**Dataset Compiled By:** 
+
+**Source**: 
+
+![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
 ___
 
 **Developer Salaries, Languages, and Age in 2019:** 
