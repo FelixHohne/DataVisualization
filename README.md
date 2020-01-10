@@ -34,6 +34,17 @@ ___
 
 Considering the high level of inequality of inequality in the United States, could there now perhaps be a relationship between the level of parental education and the birth weight? This is not the case; as one perhaps would have expected, there is no obvious relationship between parental education and the birth weight of their children. 
 
+Due to space limitations, I used shorthand for each level of education. Here is the key: 
+
++ N/A: Less than 8th grade
++ HS-: HS Dropout
++ HS: HS Diploma  
++ AA-: Some College
++ AA: Associates Degree
++ BA: Bachelor's Degrees
++ MA: Master’s degree
++ Ph.D.: Doctorate or Professional Degree
+
 ![US_Births](https://user-images.githubusercontent.com/58995473/72190776-b0424980-3400-11ea-80d6-8024b8e358bb.png)
 
 **Dataset Compiled By:** National Center for Health Statistics
