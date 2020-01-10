@@ -14,7 +14,7 @@ Which countries send the most money in terms of remittances? When we plot a stac
 
 Credit: World Bank. Dataset from: https://www.kaggle.com/theworldbank/worldwide-economic-remittances
 
-![weather_conditions](https://user-images.githubusercontent.com/58995473/72165424-c1bb2f80-33c7-11ea-9a29-0ee79ac5473f.png)
+![remittances](https://user-images.githubusercontent.com/58995473/72166388-668a3c80-33c9-11ea-96a8-62afcc85c862.png)
 
 ___
 
