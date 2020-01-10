@@ -22,6 +22,10 @@ ___
 
 During what type of weather are traffic accidents most common in the United States? We might naively assume most traffic accidents occur during bad weather, but this is not the case; traffic accidents are actually most common during clear weather. 
 
+Credit: Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+
+Source: https://www.kaggle.com/sobhanmoosavi/us-accidents
+
 ![weather_conditions](https://user-images.githubusercontent.com/58995473/72166691-02b44380-33ca-11ea-8573-b6993a65a430.png)
 
 ___
