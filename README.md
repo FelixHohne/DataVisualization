@@ -18,6 +18,13 @@ Credit: World Bank. Dataset from: https://www.kaggle.com/theworldbank/worldwide-
 
 ___
 
+**Weather and Traffic Accidents:**
+
+During what type of weather are traffic accidents most common in the United States? We might naively assume most traffic accidents occur during bad weather, but this is not the case; traffic accidents are actually most common during clear weather. 
+
+
+
+
 **Developer Salaries, Languages, and Age in 2019:** 
 
 What is the average age of a developer in 2019? Are we correct in assuming that programming is a young person's business? When we plot a histogram, we see that indeed there are far more young developers and that programmers in middle age and beyond are relatively rare. 
