@@ -14,7 +14,7 @@ From which countries do people send the most remittances? We see that the United
 
 **Source:** https://www.kaggle.com/theworldbank/worldwide-economic-remittances
 
-![remittances](https://user-images.githubusercontent.com/58995473/72166388-668a3c80-33c9-11ea-96a8-62afcc85c862.png)
+![remittances](https://user-images.githubusercontent.com/58995473/72208033-8fc8cc80-349e-11ea-82bc-c0d8f76de928.png)
 
 ___
 
