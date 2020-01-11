@@ -8,7 +8,7 @@ ___
 
 **Top Ten Sources of Remittances from 2000-2016:**
 
-From which countries do people send the most remittances? We see that the United States has for the entire period been the largest source of remittances, though its share has been steadily declining. Over time, other countries such as China and Saudi Arabia now make up a larger share of remittances sent home. 
+From which countries do people send the most remittances? We see that the United States has for the entire period been the largest source of remittances, though its share has been steadily declining. Over time, remittances from other countries such as China and Saudi Arabia now make up a larger share. 
 
 **Dataset compiled by:** _World Bank_ 
 
