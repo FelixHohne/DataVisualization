@@ -32,7 +32,7 @@ ___
 
 **Parental Education and and Marriage Rates:**
 
-What is the relationship between the level of education and the rate at which couples are married when they have a child? As modern Social Science has led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that parental education is strongly correlated with the rate of marriage. The only clear exception is when both parents have less than a 8th grade education. While I can only speculate at this point in time, my guess is that such parents are mostly likely born outside of the United States and have a different idea about the role of marriage. 
+What is the relationship between the level of education and the rate at which couples are married when they have a child? As modern Social Science has led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that parental education is generally though not perfectly correlated with the rate of marriage. 
 
 Due to space limitations, I used shorthand for each level of education. Here is the key: 
 
@@ -49,7 +49,7 @@ Due to space limitations, I used shorthand for each level of education. Here is 
 
 **Source**: https://www.kaggle.com/des137/us-births-2018
 
-![percent_married](https://user-images.githubusercontent.com/58995473/72205689-6e5be680-3486-11ea-868e-620b2cafa7d0.png)
+![percent_married](https://user-images.githubusercontent.com/58995473/72205845-c5ae8680-3487-11ea-98bb-d49710ad9bf3.png)
 ___
 
 **Developer Salaries, Languages, and Age in 2019:** 
