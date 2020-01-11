@@ -32,7 +32,7 @@ ___
 
 **Parental Education and and Marriage Rates:**
 
-Is there a correlation between the level of education and the percentage of couples being married when their child is born? As modern Social Science has led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that parental education is generally though not perfectly correlated with the rate of marriage. 
+Is there a relationship between the level of education and the percentage of couples being married when their child is born? As modern Social Science has led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that parental education is generally though not perfectly correlated with the rate of marriage. 
 
 Due to space limitations, I used shorthand for each level of education. Here is the key: 
 
