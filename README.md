@@ -55,7 +55,7 @@ The clear exception to the general relationship between education level and rate
 
 ![mothers_born_abroad](https://user-images.githubusercontent.com/58995473/72669092-d61caf00-39fb-11ea-8cc2-5a99d5d18fdd.png)
 
-This is indeed the case. Since mothers with less than an 8th grade are mostly born outside of the United States, they may have different attitudes toward marriage. 
+This is indeed the case. Since mothers with less than an 8th grade are immigrants, they may have different attitudes toward marriage. 
 
 ___
 
