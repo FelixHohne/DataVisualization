@@ -35,18 +35,6 @@ This is indeed the case. Since mothers with less than an 8th grade are immigrant
 
 ___
 
-**Top Ten Sources of Remittances from 2000-2016:**
-
-From which countries do people send the most remittances? We see that the United States has for the entire period been the largest source of remittances, though its share has been steadily declining. Over time, remittances from other countries such as China and Saudi Arabia now make up a larger share. 
-
-**Dataset compiled by:** _World Bank_ 
-
-**Source:** https://www.kaggle.com/theworldbank/worldwide-economic-remittances
-
-![remittances](https://user-images.githubusercontent.com/58995473/72208033-8fc8cc80-349e-11ea-82bc-c0d8f76de928.png)
-
-___
-
 **Weather and Traffic Accidents:**
 
 During what type of weather are traffic accidents most common in the United States? We might typically assume most traffic accidents occur during bad weather, but this is not the case; an analysis of the approximately 2.5 million traffic accidents from 2016-2019 indicate that traffic accidents are actually most common during clear weather. 
@@ -56,6 +44,18 @@ During what type of weather are traffic accidents most common in the United Stat
 **Source:** https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 ![weather_conditions](https://user-images.githubusercontent.com/58995473/72167510-87ec2800-33cb-11ea-81bb-52d64bf5f678.png)
+
+___
+
+**Top Ten Sources of Remittances from 2000-2016:**
+
+From which countries do people send the most remittances? We see that the United States has for the entire period been the largest source of remittances, though its share has been steadily declining. Over time, remittances from other countries such as China and Saudi Arabia now make up a larger share. 
+
+**Dataset compiled by:** _World Bank_ 
+
+**Source:** https://www.kaggle.com/theworldbank/worldwide-economic-remittances
+
+![remittances](https://user-images.githubusercontent.com/58995473/72208033-8fc8cc80-349e-11ea-82bc-c0d8f76de928.png)
 
 ___
 
