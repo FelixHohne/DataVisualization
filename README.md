@@ -50,6 +50,8 @@ Due to space limitations, I use abbreviations for each level of education:
 **Source**: https://www.kaggle.com/des137/us-births-2018
 
 ![percent_married](https://user-images.githubusercontent.com/58995473/72205845-c5ae8680-3487-11ea-98bb-d49710ad9bf3.png)
+
+![mothers_born_abroad](https://user-images.githubusercontent.com/58995473/72669092-d61caf00-39fb-11ea-8cc2-5a99d5d18fdd.png)
 ___
 
 **Developer Salaries, Languages, and Age in 2019:** 
