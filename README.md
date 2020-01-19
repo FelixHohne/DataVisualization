@@ -8,9 +8,6 @@ ___
 
 **Parental Education and and Marriage Rates:**
 
-[I'm an inline-style link](https://www.google.com)
-
-
 Is there a relationship between the level of education and the percentage of couples being married when their child is born? 
 [As newspaper articles have led us to expect](https://www.theatlantic.com/family/archive/2019/01/education-divide-marriage/579688/), 
 the approximately 3.8 million births in the United States in 2018 clearly indicate that higher parental education is generally, though not perfectly, correlated with a higher rate of marriage. 
