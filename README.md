@@ -2,7 +2,7 @@
 
 ### Introduction 
 
-A personal project during freshman winter break to learn and use Python's pandas, matplotlib, and seaborn data visualization libraries with various real-world datasets. For the source code to generate these visuals, please see the respective jupyter notebooks. 
+A personal project during freshman year to learn and use Python's Pandas, Matplotlib, and Seaborn Data Visualization libraries with various real-world datasets. For the source code to generate these visuals, please see the respective Jupyter Notebooks. 
 
 ___ 
 
