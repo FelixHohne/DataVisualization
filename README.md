@@ -29,7 +29,7 @@ Due to space limitations, I use abbreviations for each level of education:
 
 ![percent_married](https://user-images.githubusercontent.com/58995473/72205845-c5ae8680-3487-11ea-98bb-d49710ad9bf3.png)
 
-The clear exception to the general relationship between education level and rate of marriage is that when a mother's education declines from some level of high education to less than 8th grade, her chance of being married when having a child actually increases. Could it be possible that this is because most mothers with less than an 8th grade education were born outside of the US? 
+The clear exception to the general relationship between education level and rate of marriage is that when a mother's education decreases from some high school to less than 8th grade, her chance of being married when having a child actually increases. Could it be possible that this is because most mothers with less than an 8th grade education were born outside of the US? 
 
 ![mothers_born_abroad](https://user-images.githubusercontent.com/58995473/72669092-d61caf00-39fb-11ea-8cc2-5a99d5d18fdd.png)
 
