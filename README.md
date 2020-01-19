@@ -53,7 +53,7 @@ ___
 
 From which countries do people send the most remittances? We see that the United States has for the entire period been the largest source of remittances, though its share has been steadily declining. Over time, remittances from other countries such as China and Saudi Arabia now make up a larger share. 
 
-The decline of remittances in 2008 is most likely due to the Great Recession, with [its accompanying collapse of oil prices from $145.29 a barrel to below $60](https://www.nytimes.com/2008/11/12/business/worldbusiness/12oil.html).
+The decline of remittances in 2008 is most likely due to the Great Recession, with its accompanying [collapse of oil prices from $145.29 a barrel to below $60](https://www.nytimes.com/2008/11/12/business/worldbusiness/12oil.html).
 
 **Dataset compiled by:** _World Bank_ 
 
