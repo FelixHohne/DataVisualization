@@ -1,6 +1,6 @@
 # Data Visualization 
 
-### Abstract 
+### Introduction 
 
 A personal project during freshman winter break to learn and use Python's pandas, matplotlib, and seaborn data visualization libraries with various real-world datasets. For the source code to generate these visuals, please see the respective jupyter notebooks. 
 
@@ -8,7 +8,7 @@ ___
 
 **Parental Education and and Marriage Rates:**
 
-Is there a relationship between the level of education and the percentage of couples being married when their child is born? As newspaper articles have led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that higher parental education is generally though not perfectly correlated with a higher rate of marriage. 
+Is there a relationship between the level of education and the percentage of couples being married when their child is born? As newspaper articles have led us to expect, the approximately 3.8 million births in the United States in 2018 clearly indicate that higher parental education is generally, though not perfectly, correlated with a higher rate of marriage. 
 
 Due to space limitations, I use abbreviations for each level of education:
 
