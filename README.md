@@ -8,7 +8,7 @@ ___
 
 **Parental Education and and Marriage Rates:**
 
-Is there a relationship between education level and the percentage of children born in wedlock? 
+Is there a relationship between parental education level and the percentage of children born in wedlock? 
 [As newspaper articles have led us to expect](https://www.theatlantic.com/family/archive/2019/01/education-divide-marriage/579688/), 
 the approximately 3.8 million births in the United States in 2018 clearly indicate that more educated fathers and mothers have a higher chance of being married to one another when their child is born.
 
