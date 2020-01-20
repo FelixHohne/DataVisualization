@@ -33,7 +33,7 @@ The clear exception to the general rule is that when a mother's education decrea
 
 ![mothers_born_abroad](https://user-images.githubusercontent.com/58995473/72669092-d61caf00-39fb-11ea-8cc2-5a99d5d18fdd.png)
 
-This is indeed the case. Since most mothers with less than an 8th grade are immigrants, this may be one explanation for their unusually high marriage rates.
+This is indeed the case. Since most mothers with less than an 8th grade are immigrants, this may be one explanation for their higher marriage rates, based on what their education level would predict.
 
 ___
 
